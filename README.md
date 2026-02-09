@@ -12,7 +12,7 @@ Validates author selection to prevent invalid entries
 Uses Oracle 11g XE as the database
 JSP and HTML front-end with success and failure pages
 
-##Technologies Used
+Technologies Used
 
 Java 11 / 17
 Servlets & JSP
@@ -21,7 +21,7 @@ JDBC
 HTML / CSS
 Eclipse IDE / Tomcat 9.0
 
-##Output screenshots
+Output screenshots
 <img width="404" height="232" alt="Screenshot 2026-02-09 113700" src="https://github.com/user-attachments/assets/096d74b4-32b6-4713-bb84-04db4d350e79" />
 <img width="830" height="344" alt="Screenshot 2026-02-09 113643" src="https://github.com/user-attachments/assets/72c7a77d-5a5b-42e5-8c8f-a7feb1501a82" />
 <img width="516" height="247" alt="Screenshot 2026-02-09 113653" src="https://github.com/user-attachments/assets/01d5b346-6bb2-4743-a638-b4829a4ed376" />
