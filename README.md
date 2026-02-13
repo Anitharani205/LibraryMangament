@@ -1,4 +1,4 @@
-📚 Library Management System
+ Library Management System
 Overview
 
 A Java-based web application using Servlets, JSP, and Oracle 11g XE to manage books and authors in a library.
